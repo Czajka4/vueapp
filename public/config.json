@@ -1,4 +1,4 @@
 {
-  "API_URL": "http://localhost:5000/api",
+  "API_URL": "http://13.69.148.74:5000/api",
   "FRONTEND_HOSTNAME": "local"
 }
